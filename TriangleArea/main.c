@@ -5,7 +5,7 @@
 /*
     A Triangle's area can be calculated using its sides by the following formula
 
-        T = sqrt(s*(s-a)*(s-b)*(s-c))
+        T = sqrt(s*((s-a)*(s-b)*(s-c)))
 
     where s = (a+b+c)/2   [s for semiperimeter]
 
