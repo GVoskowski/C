@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
-    Converts Fahrenheit temperature to Celcius and vice verca!
+    Converts Fahrenheit temperature to Celcius and vice versa!
 */
 
 int main()
