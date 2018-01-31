@@ -8,6 +8,17 @@
         T = sqrt(s*(s-a)*(s-b)*(s-c))
 
     where s = (a+b+c)/2   [s for semiperimeter]
+
+----------------------------------------------------------------------------------------
+
+    Triangle Inequality Theorem :
+
+        The sum of the lengths of any two sides must be greater than or equal to the length of the remaining side
+
+        A+B > C
+        B+C > A
+        A+C > B
+
 */
 
 int main()
