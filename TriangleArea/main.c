@@ -3,7 +3,7 @@
 #include <math.h>
 
 /*
-    A Triangle's area using its sides is calculated by the following formula
+    A Triangle's area can be calculated using its sides by the following formula
 
         T = sqrt(s*(s-a)*(s-b)*(s-c))
 
