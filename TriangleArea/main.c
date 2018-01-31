@@ -20,7 +20,7 @@ int main()
 
     if(a>0 && b>0 && c>0) //Sanity check,Sides cannot be zero or negative
     {
-        if((a+b)>c && b+c>a && a+c>b)
+        if((a+b)>c && b+c>a && a+c>b) //Sanity check, Sides should adhere to the triangle inequality theorem.
         {
 
             float s = (a+b+c)/2; //Calculate the semiperimeter
