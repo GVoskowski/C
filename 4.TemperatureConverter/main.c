@@ -1,9 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+    Converts Fahrenheit temperature to Celcius and vice verca!
+*/
+
 int main()
 {
-   printf("Would you like to convert Fahrenheit or Celcium?\n---- Type F or C to choose! ----\n");
+   printf("Would you like to convert Fahrenheit or Celcius?\n---- Type F or C to choose! ----\n");
 
     char selection;
 
